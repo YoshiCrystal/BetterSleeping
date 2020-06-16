@@ -111,4 +111,4 @@ message_reloaded: "&2¡Recarga completa!"
 #     - Having the node bettersleeping.bypass OR essentials.sleepingignored
 #     - Being in a bypassed gamemode
 #     - Being afk / vanished
-bypass_message: "&cEstas en modo bypassed por lo que no necesitas dormir, <user>."
+bypass_message: "&cEstas en modo bypass por lo que no necesitas dormir, <user>."
